@@ -14,7 +14,7 @@ This is a terminal-based quiz application written in Python. It allows users to 
 ## 🛠️ Technologies Used:
 - Python 3
 
-🚀 Example Output:
+## 🚀 Example Output:
 
 🎉 Welcome to the Python Quiz App by AMAN DEEEP 🎉
 
